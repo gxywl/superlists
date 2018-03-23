@@ -2,3 +2,6 @@ venv
 .idea
 superlists/__pycache__
 *.pyc
+*geckodriver.lgo
+geckodriver.lgo
+geckodriver.log
